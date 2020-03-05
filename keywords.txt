@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SSR Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SSR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+run	KEYWORD2
+setup	KEYWORD2
+setPower    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MODE_ON_OFF	LITERAL1
+MODE_PULSE_PACKET	LITERAL1
+
